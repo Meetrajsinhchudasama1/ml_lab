@@ -1,0 +1,11 @@
+age,salary,department,tenure,target
+25.0,40000.0,sales,1.0,0
+35.0,80000.0,engineering,8.0,1
+,50000.0,sales,3.0,0
+45.0,120000.0,management,15.0,1
+23.0,35000.0,hr,0.5,0
+40.0,60000.0,engineering,6.0,1
+,70000.0,hr,10.0,0
+30.0,90000.0,sales,4.0,1
+50.0,110000.0,,20.0,1
+28.0,,management,2.0,0
